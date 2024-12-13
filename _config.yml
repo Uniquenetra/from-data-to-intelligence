@@ -241,10 +241,10 @@ pagination:
   # Set enabled to true to use paginate v2
   # enabled: true
   debug: false
-  #collection: 'posts'
-  collections:
-  posts:
-    output: true
+  collection: 'posts'
+  #collections:
+  #posts:
+    #output: true
   per_page: 10
   permalink: '/page/:num/'
   title: ':title - page :num'
