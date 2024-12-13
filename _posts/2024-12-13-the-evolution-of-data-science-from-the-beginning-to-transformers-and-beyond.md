@@ -5,8 +5,6 @@ categories: [data-science, AI, machine-learning]
 tags: [data science, AI, evolution, transformers, edge AI]
 ---
 
-# The Evolution of Data Science: From the Beginning to Transformers and Beyond
-
 ## Once Upon a Time... In a World of Data
 
 Long ago, before machine learning (ML) and artificial intelligence (AI) were even buzzwords, data was just... data. Data scientists were rare creatures, toiling away with simple statistics and straightforward analysis. But as time marched on, everything began to change, and data science evolved into the cutting-edge field we know today.
