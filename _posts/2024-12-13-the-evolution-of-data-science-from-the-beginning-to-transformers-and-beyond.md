@@ -1,7 +1,7 @@
 ---
 title: "The Evolution of Data Science: From the Beginning to Transformers and Beyond"
 date: 2024-12-13
-image: ../images/blog-cover.jpg  # Add a relevant image path
+image: from-data-to-intelligence/images/blog-cover.jpg  # Add a relevant image path
 categories: [data-science, AI, machine-learning]
 tags: [data science, AI, evolution, transformers, edge AI, beginners]
 ---
