@@ -10,8 +10,9 @@ header:
   caption: "Exploring the World of Data Science and AI"
 ---
 
----
-##Once Upon a Time... In a World of Data
+## 
+
+## Once Upon a Time... In a World of Data
 
 Long ago, before machine learning (ML) and artificial intelligence (AI) were even buzzwords, data was just... data. Data scientists were rare creatures, toiling away with simple statistics and straightforward analysis. But as time marched on, everything began to change, and data science evolved into the cutting-edge field we know today.
 
