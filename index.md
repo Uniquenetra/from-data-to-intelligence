@@ -1,6 +1,7 @@
 ---
 layout: home
-title: "From Data to Intelligence"
+title: "From Data to Intelligence                                                                                                   
+"
 description: "A blog about data science and AI."
 image: assets/images/blog-cover.jpg
 header:
