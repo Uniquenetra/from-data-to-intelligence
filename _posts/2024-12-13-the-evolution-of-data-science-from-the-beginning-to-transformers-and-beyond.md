@@ -5,7 +5,7 @@ image: blog-cover.jpg  # Add a relevant image path
 categories: [data-science, AI, machine-learning]
 tags: [data science, AI, evolution, transformers, edge AI, beginners]
 ---
-![Blog Cover](blog-cover.jpg)
+![Blog Cover](/assets/images/blog-cover.jpg)
 
 ## Once Upon a Time... In a World of Data
 
