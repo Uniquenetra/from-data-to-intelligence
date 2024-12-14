@@ -1,10 +1,5 @@
----
-layout: home
-title: "From Data to Intelligence"
-description: "A blog about data science and AI."
-image: assets/images/blog-cover.jpg
----
----
+
+
 layout: splash
 title: "Welcome to My Blog"
 header:
@@ -14,8 +9,6 @@ header:
   actions:
     - label: "Read My Blogs"
       url: "/from-data-to-intelligence/"
----
-
 
 
 # Welcome to My Data Science Blog
