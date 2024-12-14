@@ -4,6 +4,10 @@ date: 2024-12-13
 image: blog-cover.jpg  # Add a relevant image path
 categories: [data-science, AI, machine-learning]
 tags: [data science, AI, evolution, transformers, edge AI, beginners]
+header:
+  overlay_image: /assets/images/blog-cover.jpg
+  overlay_filter: 0.5 # Adjust transparency of overlay (optional)
+  caption: "Exploring the World of Data Science and AI"
 ---
 ![Blog Cover](/assets/images/blog-cover.jpg)
 
