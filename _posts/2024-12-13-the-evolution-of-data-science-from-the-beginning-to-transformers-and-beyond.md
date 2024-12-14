@@ -1,7 +1,7 @@
 ---
 title: "The Evolution of Data Science: From the Beginning to Transformers and Beyond"
 date: 2024-12-13
-image: blog-cover.jpg  # Add a relevant image path
+image:  /assets/images/blog-cover.jpg  # Add a relevant image path
 categories: [data-science, AI, machine-learning]
 tags: [data science, AI, evolution, transformers, edge AI, beginners]
 header:
@@ -9,7 +9,7 @@ header:
   overlay_filter: 0.5 # Adjust transparency of overlay (optional)
   caption: "Exploring the World of Data Science and AI"
 ---
-![Blog Cover](/assets/images/blog-cover.jpg)
+
 
 ## Once Upon a Time... In a World of Data
 
