@@ -139,6 +139,12 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
+# Site-wide configuration for homepage header
+header:
+  overlay_image: /assets/images/blog-cover.jpg
+  overlay_filter: 0.5 # Adjust for transparency (optional)
+  caption: "Welcome to Netra's Blog: Data Science, AI, and More!"
+
 # Site Footer
 footer:
   links:
