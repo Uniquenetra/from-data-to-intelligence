@@ -12,7 +12,6 @@ header:
     - label: "About Me"
       url: "https://uniquenetra.github.io/"
 ---
----
 
 
 ## Once Upon a Time... In a World of Data
