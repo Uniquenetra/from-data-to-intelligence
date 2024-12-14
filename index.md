@@ -2,6 +2,7 @@
 layout: home
 title: "From Data to Intelligence"
 description: "A blog about data science and AI."
+image: blog-cover.jpg
 ---
 
 # Welcome to My Data Science Blog
