@@ -115,12 +115,16 @@ analytics:
 # Site Author
 author:
   name             : "Netra Kulkarni"
+  url              : "https://uniquenetra.github.io/"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "A data scientist by passion, a storyteller by choice, and a host who loves the spotlight! I turn data into insights, code into creativity, and ideas into action."
   location         : "Poland (with a heart full of wanderlust)"
   email            : "uniquenetra@gmail.com"
-  url              : "https://uniquenetra.github.io/"
+  
   links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://uniquenetra.github.io/"  # Ensure this is not commented
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
