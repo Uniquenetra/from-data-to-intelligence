@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/blog-cover.jpg
   overlay_filter: 0.5 # Adjust transparency of overlay (optional)
   caption: "Exploring the World of Data Science and AI"
-actions:
+  actions:
     - label: "About Me"
       url: "https://uniquenetra.github.io/"
 ---
